@@ -1,0 +1,13 @@
+p
+{
+    border: 2px violet dashed;
+}
+legend{color:blue;background-color: blueviolet; font: italic bold 128%/140% Arial,sans-serif;}
+fieldset{
+    padding: 50px;
+    margin-bottom: 10 px
+    border:1px solid #df3fdf;
+}
+u{
+    background-color: violet;
+}

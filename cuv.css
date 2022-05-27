@@ -1,0 +1,16 @@
+.chiffres-romains
+{list-style-type: upper-roman;}
+.rien
+{list-style-type: none;}
+#spécial
+{background-color: wheat ;}
+.bordure{
+    width: 10em;
+    border-right:1px solid red;
+}
+u{
+    background-color: blue;
+}
+h1{
+    color: blue;
+}

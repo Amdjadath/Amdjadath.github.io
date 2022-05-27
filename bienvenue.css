@@ -1,0 +1,16 @@
+#spécial
+{background-color:pink;}
+.majuscules
+h1{text-transform:uppercase; color: violet;}
+em{text-decoration: purple;}
+body{
+    padding: 100px;
+    margin-bottom: 50 px
+}
+h1{
+    color: violet;
+}
+#para
+{ color: white;
+
+}
